@@ -1,0 +1,214 @@
+VERSION="2.2.0"
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+
+[DOCUMENTATION]
+ORG_NAME="RECAP"
+ORG_URL="https://recap.quest"
+ORG_DESCRIPTION="Crypto Culture Curiosity"
+ORG_LOGO="https://recap.quest/images/recap-quest-logo.png"
+
+[[CURRENCIES]]
+code="AstralX"
+issuer="GAZEME7KWWDMUINNTU4EOEXCWNZOBI72MNDYVPAGSQWMQD3VKGAEXAMD"
+name="AstralX"
+desc="Astral X is a globally leading digital asset trading platform dedicated to providing users with secure, stable, and efficient cryptocurrency trading services. The platform supports a variety of functions, including spot trading, contract trading, OTC trading, and staking, to meet the diverse needs of users."
+image="https://recap.quest/images/AstralX.png"
+conditions="Promises of value or future utility"
+
+[[CURRENCIES]]
+code="BINANCE"
+issuer="GAZEME7KWWDMUINNTU4EOEXCWNZOBI72MNDYVPAGSQWMQD3VKGAEXAMD"
+name="BINANCE"
+desc="Binance is the world’s largest cryptocurrency exchange by user count and trading volume, with over $217 billion in daily volume across spot and futures markets as of June 2025. Serving 280+ million of users globally, Binance offers access to 500+ cryptocurrencies and more than 1,500 trading pairs. Beyond trading, Binance has evolved into a comprehensive ecosystem that includes Binance Exchange, Binance Wallet, Binance Earn, Binance Pay, Binance Square, Binance Academy, Binance Research, and more. Whether users are looking to trade, invest, learn, or build, Binance provides a secure and feature-rich platform to do so."
+image="https://recap.quest/images/BINANCE.png"
+conditions="Promises of value or future utility"
+
+[[CURRENCIES]]
+code="BITFINEX"
+issuer="GAZEME7KWWDMUINNTU4EOEXCWNZOBI72MNDYVPAGSQWMQD3VKGAEXAMD"
+name="BITFINEX"
+desc="Bitfinex is one of the oldest cryptocurrency exchanges, founded in 2012 and operated by the Hong Kong-based company iFinex Inc. Tether (USDT), the largest stablecoin by market cap, is also owned by iFinex Inc. The centralized exchange (CEX) platform was designed for professional traders and institutions, with support for both fiat and crypto. The exchange is considered one of the most liquid for BTC pairs and other major altcoins like ETH and XMR. To protect user assets, the platform offers both two-factor authentication and IP address monitoring."
+image="https://recap.quest/images/BITFINEX.png"
+conditions="Promises of value or future utility"
+
+[[CURRENCIES]]
+code="BITTREX"
+issuer="GAZEME7KWWDMUINNTU4EOEXCWNZOBI72MNDYVPAGSQWMQD3VKGAEXAMD"
+name="BITTREX"
+desc="Bittrex Global is a centralized cryptocurrency exchange. Established in 2014, it is registered with the Financial Market Authority in Liechtenstein, regulated by the Bermuda Monetary Authority, and licensed under the Bermuda Digital Asset Business Act 2018 to operate as a digital asset exchange, provide custodial wallet services and operate as a digital asset exchange provider."
+image="https://recap.quest/images/BITTREX.png"
+conditions="Promises of value or future utility"
+
+[[CURRENCIES]]
+code="BitMEX"
+issuer="GAZEME7KWWDMUINNTU4EOEXCWNZOBI72MNDYVPAGSQWMQD3VKGAEXAMD"
+name="BitMEX"
+desc="BitMEX is a peer-to-peer (P2P) cryptocurrency exchange and professional derivatives trading platform founded by HDR Global Trading Limited and registered in Seychelles under the International Business Companies Act. BitMEX stands for Bitcoin Mercantile Exchange. It focuses primarily on advanced investors and seasoned traders who are familiar with the concepts of leveraged tokens and margin trading."
+image="https://recap.quest/images/BitMEX.png"
+conditions="Promises of value or future utility"
+
+[[CURRENCIES]]
+code="Bitpanda"
+issuer="GAZEME7KWWDMUINNTU4EOEXCWNZOBI72MNDYVPAGSQWMQD3VKGAEXAMD"
+name="Bitpanda"
+desc="Bitpanda makes investing accessible for everyone. Founded in 2014 in Vienna, Austria by Eric Demuth, Paul Klanschek and Christian Trummer, Bitpanda removes the barriers to investing by harnessing the innovative power of digitised assets and blockchain technology. With more than 400 team members and over 2 million users, the company is one of Europe's fastest-growing fintechs. The user-friendly, trade-everything platform empowers both first-time investors and seasoned experts to invest in the stocks, cryptocurrencies and metals they want — with any amount of money"
+image="https://recap.quest/images/Bitpanda.png"
+conditions="Promises of value or future utility"
+
+[[CURRENCIES]]
+code="Bitstamp"
+issuer="GAZEME7KWWDMUINNTU4EOEXCWNZOBI72MNDYVPAGSQWMQD3VKGAEXAMD"
+name="Bitstamp"
+desc="Founded in 2011, Bitstamp is one of the longest-standing and most regulated centralized crypto exchanges(CEXs), serving more than 4 million customers worldwide in over 100 countries. "
+image="https://recap.quest/images/Bitstamp.png"
+conditions="Promises of value or future utility"
+
+[[CURRENCIES]]
+code="BlockFi"
+issuer="GAZEME7KWWDMUINNTU4EOEXCWNZOBI72MNDYVPAGSQWMQD3VKGAEXAMD"
+name="BlockFi"
+desc="BlockFi gets court permission to return $297 million to ... BlockFi was a crypto-financial services company that filed for bankruptcy in November 2022 following the collapse of the cryptocurrency exchange FTX, which it had a significant financial exposure to. While the company has ceased operations, its bankruptcy proceedings have been working to make customers whole, with distributions of assets being made through the crypto platform Coinbase."
+image="https://recap.quest/images/BlockFi.png"
+conditions="Promises of value or future utility"
+
+[[CURRENCIES]]
+code="Celsius"
+issuer="GAZEME7KWWDMUINNTU4EOEXCWNZOBI72MNDYVPAGSQWMQD3VKGAEXAMD"
+name="Celsius"
+desc="The company announced on January 31, 2024, that it had exited bankruptcy as part of a restructuring plan that involved the distribution of assets, including a newly created bitcoin mining company, to its creditors. Celsius wound down its operations as part of its emergence from bankruptcy."
+image="https://recap.quest/images/Celsius.png"
+conditions="Promises of value or future utility"
+
+[[CURRENCIES]]
+code="CoinBase"
+issuer="GAZEME7KWWDMUINNTU4EOEXCWNZOBI72MNDYVPAGSQWMQD3VKGAEXAMD"
+name="CoinBase"
+desc="Coinbase Exchange is a US-based crypto trading and investment platform where users can easily buy, sell, exchange and store cryptocurrencies. The platform is intuitive and beginner-friendly with support for basic transactions, digital wallet, and PayPal withdrawals. For more advanced traders, Coinbase Pro offers more professional trade execution and lower fees. However, in June 2022, the company announced that Coinbase Pro will be phased out and all users will have access to the “Advanced Trade” feature on the main app."
+image="https://recap.quest/images/CoinBase.png"
+conditions="Promises of value or future utility"
+
+[[CURRENCIES]]
+code="CoinFloor"
+issuer="GAZEME7KWWDMUINNTU4EOEXCWNZOBI72MNDYVPAGSQWMQD3VKGAEXAMD"
+name="CoinFloor"
+desc="COINFLOOR TO MIGRATE CUSTOMERS TO COINCORNER TO FURTHER BRITISH BITCOIN ADOPTION"
+image="https://recap.quest/images/CoinFloor.png"
+conditions="Promises of value or future utility"
+
+[[CURRENCIES]]
+code="EXODUS"
+issuer="GAZEME7KWWDMUINNTU4EOEXCWNZOBI72MNDYVPAGSQWMQD3VKGAEXAMD"
+name="EXODUS"
+desc="Buy and swap cryptocurrencies with the best Crypto Wallet & Bitcoin Wallet. Secure crypto, access all of Web3 with the multichain Exodus Web3 Wallet."
+image="https://recap.quest/images/EXODUS.png"
+conditions="Promises of value or future utility"
+
+[[CURRENCIES]]
+code="FTX"
+issuer="GAZEME7KWWDMUINNTU4EOEXCWNZOBI72MNDYVPAGSQWMQD3VKGAEXAMD"
+name="FTX"
+desc="FTX is a centralized digital asset exchange for buying, selling, and trading cryptocurrencies with low fees. The platform supports the most prevalent cryptocurrencies and specializes in futures, derivatives, spot trading, NFTs and staking."
+image="https://recap.quest/images/FTX.png"
+conditions="Promises of value or future utility"
+
+[[CURRENCIES]]
+code="GEMINI"
+issuer="GAZEME7KWWDMUINNTU4EOEXCWNZOBI72MNDYVPAGSQWMQD3VKGAEXAMD"
+name="GEMINI"
+desc="Gemini is a New York-based cryptocurrency centralized exchange (CEX) regulated by the New York State Department of Financial Services, available in all 50 U.S. states and over 60 countries. The platform was built with a focus on security and compliance, although it offers fewer crypto assets than its competitors, notably over 80 cryptocurrencies and over 21 crypto-to-crypto trading pairs."
+image="https://recap.quest/images/GEMINI.png"
+conditions="Promises of value or future utility"
+
+[[CURRENCIES]]
+code="GuardaWallet"
+issuer="GAZEME7KWWDMUINNTU4EOEXCWNZOBI72MNDYVPAGSQWMQD3VKGAEXAMD"
+name="GuardaWallet"
+desc="Your ultimate non-custodial wallet. Over 60 blockchains and 400,000 tokens supported. Send, receive, hodl, exchange, buy crypto and explore web3."
+image="https://recap.quest/images/GuardaWallet.png"
+conditions="Promises of value or future utility"
+
+[[CURRENCIES]]
+code="Kraken"
+issuer="GAZEME7KWWDMUINNTU4EOEXCWNZOBI72MNDYVPAGSQWMQD3VKGAEXAMD"
+name="Kraken"
+desc="Kraken is a US-based cryptocurrency exchange where users can buy, sell and trade various assets with relatively low commissions. Clients can also earn rewards through coin staking. The exchange has a leading level euro volume and liquidity and allows users to trade over 100 crypto assets and 7 fiat currencies, including USD, CAD, EUR, GBP, JPY, CHF and AUD, on-the-go with a web platform and mobile apps."
+image="https://recap.quest/images/Kraken.png"
+conditions="Promises of value or future utility"
+
+[[CURRENCIES]]
+code="KuCoin"
+issuer="GAZEME7KWWDMUINNTU4EOEXCWNZOBI72MNDYVPAGSQWMQD3VKGAEXAMD"
+name="KuCoin"
+desc="KuCoin is a cryptocurrency exchange built with the mission to “facilitate the global free flow of digital value.” It claims to have an emphasis on intuitive design, simple registration process and high level of security. The platform supports futures trading, a built-in P2P exchange, the ability to purchase cryptocurrencies with a credit or debit card, and instant exchange services."
+image="https://recap.quest/images/KuCoin.png"
+conditions="Promises of value or future utility"
+
+[[CURRENCIES]]
+code="Ledger"
+issuer="GAZEME7KWWDMUINNTU4EOEXCWNZOBI72MNDYVPAGSQWMQD3VKGAEXAMD"
+name="Ledger"
+desc="A ledger is a book or collection of accounts in which accounting transactions are recorded. Each account has: an opening or brought-forward balance; a list of transactions, each recorded as either a debit or credit in separate columns (usually with a counter-entry on another page)"
+image="https://recap.quest/images/Ledger.png"
+conditions="Promises of value or future utility"
+
+[[CURRENCIES]]
+code="METAMASK"
+issuer="GAZEME7KWWDMUINNTU4EOEXCWNZOBI72MNDYVPAGSQWMQD3VKGAEXAMD"
+name="METAMASK"
+desc="The trust factor comes down to understanding that MetaMask is self-custody – they don't control your funds and can't access your wallet. Your security depends on protecting your seed phrase and avoiding scams, not on MetaMask's trustworthiness.Aug 18, 2025"
+image="https://recap.quest/images/METAMASK.png"
+conditions="Promises of value or future utility"
+
+[[CURRENCIES]]
+code="MIST"
+issuer="GAZEME7KWWDMUINNTU4EOEXCWNZOBI72MNDYVPAGSQWMQD3VKGAEXAMD"
+name="MIST"
+desc="Mist is an Electron framework-based application that is used for the management of Ethereum wallet and Ethereum applications. More specifically, it is a hybrid desktop application with a web interface to manage Ethereum DApps."
+image="https://recap.quest/images/MIST.png"
+conditions="Promises of value or future utility"
+
+[[CURRENCIES]]
+code="POLONIEX"
+issuer="GAZEME7KWWDMUINNTU4EOEXCWNZOBI72MNDYVPAGSQWMQD3VKGAEXAMD"
+name="POLONIEX"
+desc="Poloniex is a global crypto centralized exchange (CEX) platform backed by Justin Sun, founder of Tron. The exchange provides the following products: spot trading and margin trading, futures trading and perpetual swaps, limit orders, real-time order books, a convenient lending system (P2P lending), crypto staking and a trading terminal."
+image="https://recap.quest/images/POLONIEX.png"
+conditions="Promises of value or future utility"
+
+[[CURRENCIES]]
+code="StakeTax"
+issuer="GAZEME7KWWDMUINNTU4EOEXCWNZOBI72MNDYVPAGSQWMQD3VKGAEXAMD"
+name="StakeTax"
+desc="StakeTax is generally considered to be a safe exchange. Although StakeTax follows industry best practices for safety and to prevent malicious attacks, there is always a risk associated with keeping your crypto on centralized third-party exchanges including StakeTax.Apr 14, 2025"
+image="https://recap.quest/images/StakeTax.png"
+conditions="Promises of value or future utility"
+
+[[CURRENCIES]]
+code="SwissBorg"
+issuer="GAZEME7KWWDMUINNTU4EOEXCWNZOBI72MNDYVPAGSQWMQD3VKGAEXAMD"
+name="SwissBorg"
+desc="SwissBorg is Europe's leading app for buying and selling crypto safely at low fees, available on iOS and Android in 47 countries and 16 currencies."
+image="https://recap.quest/images/SwissBorg.png"
+conditions="Promises of value or future utility"
+
+[[CURRENCIES]]
+code="UpHold"
+issuer="GAZEME7KWWDMUINNTU4EOEXCWNZOBI72MNDYVPAGSQWMQD3VKGAEXAMD"
+name="UpHold"
+desc="Uphold is the easiest way to buy and sell cryptocurrency. Unlike any other platform, we allow you to trade in just one step between any supported asset."
+image="https://recap.quest/images/UpHold.png"
+conditions="Promises of value or future utility"
+
+[[CURRENCIES]]
+code="VALR"
+issuer="GAZEME7KWWDMUINNTU4EOEXCWNZOBI72MNDYVPAGSQWMQD3VKGAEXAMD"
+name="VALR"
+desc="A very safe place to trade and efficient crypto app with lots of good crypto. Well done VALR. 10k+ reviews from real people on Google Play and Apple App Store rate VALR an average of 4.7/5"
+image="https://recap.quest/images/VALR.png"
+conditions="Promises of value or future utility"
+
+# Deliverable: 
+# A living, evolving experiment in digital culture and blockchain 
+# Active engagement, token distribution, and user feedback 
+# A working, on-chain token with metadata — ready for wallets like Freighter to display 
+# A live, trustworthy, and distinct identity that avoids confusion with other "Recap" brands
